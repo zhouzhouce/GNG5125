@@ -10,12 +10,18 @@ This project is a part of the course GNG5125. The goal of this assignment is to 
 - scikit-learn
 
 ## Data
-The data used in this project is the Iris dataset from the UCI Machine Learning Repository. The dataset contains 150 samples of iris plants, with 50 samples from each of three species (Iris Setosa, Iris Versicolor, and Iris Virginica). The features included in the data are:
-
-- sepal length
-- sepal width
-- petal length
-- petal width
+Choice five books have the same genres and semantically the same, download: https://www.gutenberg.org
+- Children literature
+    "Peter Pan" by J. M. Barrie https://www.gutenberg.org/files/16/16-0.txt
+    "The Adventures of Tom Sawyer" by Mark Twain https://www.gutenberg.org/files/74/74-0.txt
+    "The Wind in the Willows" by Kenneth Grahame https://www.gutenberg.org/files/289/289-0.txt
+    "The Secret Garden" by Frances Hodgson Burnett https://www.gutenberg.org/cache/epub/17396/pg17396.txt
+    "Treasure Island" by Robert Louis Stevenson https://www.gutenberg.org/cache/epub/120/pg120.txt
+Add two novels with different themes as a control group.
+- Romance fiction
+    "Pride and Prejudice" by Jane Austen https://www.gutenberg.org/cache/epub/1342/pg1342.txt
+- Mystery fiction
+    "The Adventures of Sherlock Holmes" by Sir Arthur Conan Doyle https://www.gutenberg.org/files/1661/1661-0.txt
 
 ## Implementation
 The project is implemented in a Jupyter Notebook. The notebook contains the following sections:
