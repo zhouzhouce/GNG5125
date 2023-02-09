@@ -39,8 +39,10 @@ The project is implemented in a Jupyter Notebook. The notebook contains the foll
 4. Run the code cells in the notebook to see the results.
 
 ## Contributors
-- Zhou Zhou
-- [Group Members]
+- Yunzhou Wang  300151213 
+- Haiwei Nan    300250954
+- Manjie Hou    300254157 
+- Yuting Cao    8795048
 
 ## License
 This project is licensed under the MIT License.
