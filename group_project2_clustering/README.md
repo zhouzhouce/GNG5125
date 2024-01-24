@@ -1,6 +1,6 @@
 # Group Assignment 2: Clustering
 
-This project is a part of the course GNG5125. The goal of this assignment is to build a classifier model using various machine learning algorithms to predict the class of a given set of data.
+This project is a part of the course GNG5125. The goal of this assignment is to build a cluster model using various machine learning algorithms to predict the class of a given set of data.
 
 ## Requirements
 - Python 3.x
